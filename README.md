@@ -17,6 +17,24 @@ ifconfig
 hostname -I
 ```
 
+## Config
+
+Configure Raspberry Pi
+```
+sudo raspi-config
+```
+
+
+
+
+
+
+
+
+
+
+
+
 ### Installing
 
 A step by step series of examples that tell you have to get a development env running
