@@ -1,13 +1,10 @@
 # Linux Commands
-
 Collection of linux commands learned whilte struggling my ass off.
 
 ## Networking
-
 Networking related commands.
 
 ### Get IP address information
-
 Commands to retrieve IP address of device
 
 ```
@@ -18,8 +15,8 @@ hostname -I
 ```
 
 ## Config
-
 Configure Raspberry Pi
+
 ```
 sudo raspi-config
 ```
