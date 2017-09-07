@@ -22,6 +22,14 @@ sudo raspi-config
 ```
 
 
+## Rasbian Config
+Enable support for exFat drive partitions
+
+```
+sudo apt-get install exfat-fuse
+```
+
+
 
 
 
